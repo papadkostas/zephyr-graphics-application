@@ -13,8 +13,7 @@ manifest:
   projects:
     - name: zephyr
       remote: zephyrproject-rtos
-      revision: v3.2.0
-      import: true
+      revision: main
     - name: lvgl
       remote: zephyrproject-rtos
       revision: 5ab83099854719ed326b6ecb9b09b07b1eee4818
